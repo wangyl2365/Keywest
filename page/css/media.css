@@ -94,7 +94,7 @@
 	.service-manage .item { width: 100%; padding-bottom: 20px; }
 	.service-item { padding: 20px 0; }
 	.service-item h2 { margin-bottom: 20px; font-size: 20px; }
-	.banner-area h1 { font-size: 30px; }
+	.banner-area h1 { bottom: 0; font-size: 26px; background: #1d5fa2; color: #fff; padding: 0 10px; }
 	.service-list li { width: 100%; margin-bottom: 20px; }
 	.about-item { padding: 20px 0; }
 	.about-bg { display: none; }
